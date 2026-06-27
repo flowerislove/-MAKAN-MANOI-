@@ -2,10 +2,9 @@
 
 ## Project Description
 
-**Fast Food Locator** is an Android mobile application developed to help users in Shah Alam find nearby fast food outlets including **Marrybrown, KFC, McDonald's, and Pizza Hut**. The application combines real-time location tracking, interactive maps, and comprehensive outlet information to provide a seamless food discovery experience. Users can easily find the nearest outlets, get directions, read reviews, and stay updated with notifications - making their food hunting journey faster and more convenient.
+**Fast Food Locator** is an Android mobile application developed to help users in Shah Alam find nearby fast food outlets, including **Marrybrown, KFC, McDonald's, and Pizza Hut**. The application combines real-time location tracking, interactive maps, and comprehensive outlet information to provide a seamless food discovery experience. Users can easily find the nearest outlets, get directions, read reviews, and stay updated with notifications - making their food hunting journey faster and more convenient.
 
-Side Note:
-Due to file corruption, the original project could not be recovered. This repository represents a complete redevelopment of the application while preserving its original concept. The project was independently rebuilt and upgraded by me, introducing a more maintainable architecture, additional features, performance improvements, and an enhanced user experience.
+Note: The original project files were corrupted and could not be recovered. This repository contains a complete redevelopment of the application based on the original concept. While the original version was a team project, this upgraded version was independently rebuilt and enhanced by me, featuring a cleaner architecture, new functionalities, improved performance, and a more refined user experience.
 ---
 
 ## ✨ Features
